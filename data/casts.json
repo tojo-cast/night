@@ -1,0 +1,64 @@
+{
+  "casts": [
+    {
+      "id": "cast-a",
+      "name": "Cast A",
+      "catch": "丁寧で落ち着いた対応",
+      "age": 24,
+      "area": "川越〜和光市駅周辺",
+      "skills": [
+        "__SERVICE_SKILL_1__",
+        "__SERVICE_SKILL_2__"
+      ],
+      "experience": "__CAST_A_EXPERIENCE__",
+      "summary": "__CAST_A_SUMMARY__",
+      "profile": "__CAST_A_PROFILE__",
+      "images": [
+        "assets/images/cast-a-1.svg",
+        "assets/images/cast-a-2.svg",
+        "assets/images/cast-a-3.svg"
+      ],
+      "coverImage": "assets/images/cast-a-1.svg"
+    },
+    {
+      "id": "cast-b",
+      "name": "Cast B",
+      "catch": "明るく自然なコミュニケーション",
+      "age": 27,
+      "area": "東武東上線沿線",
+      "skills": [
+        "__SERVICE_SKILL_1__",
+        "__SERVICE_SKILL_3__"
+      ],
+      "experience": "__CAST_B_EXPERIENCE__",
+      "summary": "__CAST_B_SUMMARY__",
+      "profile": "__CAST_B_PROFILE__",
+      "images": [
+        "assets/images/cast-b-1.svg",
+        "assets/images/cast-b-2.svg",
+        "assets/images/cast-b-3.svg"
+      ],
+      "coverImage": "assets/images/cast-b-1.svg"
+    },
+    {
+      "id": "cast-c",
+      "name": "Cast C",
+      "catch": "柔軟な現場対応",
+      "age": 22,
+      "area": "川越・ふじみ野・志木・朝霞・和光市",
+      "skills": [
+        "__SERVICE_SKILL_2__",
+        "__SERVICE_SKILL_3__"
+      ],
+      "experience": "__CAST_C_EXPERIENCE__",
+      "summary": "__CAST_C_SUMMARY__",
+      "profile": "__CAST_C_PROFILE__",
+      "images": [
+        "assets/images/cast-c-1.svg",
+        "assets/images/cast-c-2.svg",
+        "assets/images/cast-c-3.svg"
+      ],
+      "coverImage": "assets/images/cast-c-1.svg"
+    }
+  ]
+}

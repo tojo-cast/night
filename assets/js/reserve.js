@@ -1,0 +1,1 @@
+const template=`予約相談\n\n【お名前】\n\n【希望駅・エリア】\n\n【希望日時】\n\n【依頼内容】\n\n【人数・希望条件】\n`;loadJson("data/config.json").then(c=>{document.getElementById("reserve-template-preview").textContent=template;document.getElementById("reserve-mail-button").onclick=()=>openMail(c.reservationEmail,c.reservationSubject,template);setLineLink("reserve-line-button",c.lineReserveUrl)})

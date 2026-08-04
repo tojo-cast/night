@@ -1,0 +1,17 @@
+{
+  "siteName": "東上キャスト",
+  "siteOrigin": "__SITE_ORIGIN__",
+  "businessType": "__BUSINESS_TYPE__",
+  "reservationEmail": "__RESERVE_EMAIL__",
+  "recruitEmail": "__RECRUIT_EMAIL__",
+  "reservationSubject": "【予約相談】東上キャストへの問い合わせ",
+  "recruitSubject": "【求人応募】東上キャストへの応募",
+  "lineReserveUrl": "__LINE_RESERVE_URL__",
+  "lineRecruitUrl": "__LINE_RECRUIT_URL__",
+  "phone": "__PHONE_NUMBER__",
+  "recommendedCastIds": [
+    "cast-a"
+  ],
+  "scheduleDisplayDays": 21,
+  "displayStartDate": ""
+}
