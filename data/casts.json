@@ -2,16 +2,14 @@
   "casts": [
     {
       "id": "cast-a",
-      "name": "Cast A",
-      "catch": "丁寧で落ち着いた対応",
+      "name": "颯太",
+      "catch": "身長:170cm、体重:62kg",
       "age": 24,
       "area": "川越〜和光市駅周辺",
       "skills": [
-        "__SERVICE_SKILL_1__",
-        "__SERVICE_SKILL_2__"
+        "癒し系",
+        "さわやか系"
       ],
-      "experience": "__CAST_A_EXPERIENCE__",
-      "summary": "__CAST_A_SUMMARY__",
       "profile": "__CAST_A_PROFILE__",
       "images": [
         "assets/images/cast-a-1.svg",
@@ -30,8 +28,6 @@
         "__SERVICE_SKILL_1__",
         "__SERVICE_SKILL_3__"
       ],
-      "experience": "__CAST_B_EXPERIENCE__",
-      "summary": "__CAST_B_SUMMARY__",
       "profile": "__CAST_B_PROFILE__",
       "images": [
         "assets/images/cast-b-1.svg",
@@ -50,8 +46,6 @@
         "__SERVICE_SKILL_2__",
         "__SERVICE_SKILL_3__"
       ],
-      "experience": "__CAST_C_EXPERIENCE__",
-      "summary": "__CAST_C_SUMMARY__",
       "profile": "__CAST_C_PROFILE__",
       "images": [
         "assets/images/cast-c-1.svg",
