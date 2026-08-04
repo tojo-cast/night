@@ -1,29 +1,12 @@
-①Cloudflare Pages + 独自ドメインを決める
 
-②メアド、LINE公式アカウントを作成する
-
-③プレースホルダを埋める
-https://tojo-cast.github.io/night
 https://tojo-cast.github.io/night
 
-tojo.cast@gmail.com、tojo.cast@gmail.com
 tojo.cast@gmail.com
 
-https://lin.ee/n9Ad3y6、https://lin.ee/n9Ad3y6
-
 https://lin.ee/n9Ad3y6
-LINEまたはメールにて受付　→LINEまたはメールにて受付
-60分 11,000円　→60分 12,000円
-90分 15,000円　→120分 20,000円〜
-延長やその他プランは柔軟に対応可能　→その他料金プランは相談可能
-施術前に現金手渡し or paypay送金でお願いいたします。　→施術前に現金手渡し or paypay送金でお願いいたします。
-女性向け風俗、女性向け性感マッサージ　サイト全体で使う短い事業名・サービス分類、短く具体的（店舗サポートスタッフ手配）
-女性向け風俗店（女風）として、女性のお客様に癒しと安らぎを提供するメンズセラピストサービス。特に女性用風俗を初めてご利用になる方にも安心していただける、丁寧で落ち着いたサービスを心掛ける。　各ページで表示する、具体的な事業説明
 
 
 ④文面をブラッシュアップ
-
-⑤Cloudflare Pages + 独自ドメインで公開
 
 ⑥Google Search Consoleに登録
 
