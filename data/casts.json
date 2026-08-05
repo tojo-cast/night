@@ -2,53 +2,49 @@
   "casts": [
     {
       "id": "cast-a",
-      "name": "颯太",
+      "name": "蒼汰",
       "catch": "身長:170cm、体重:62kg",
       "age": 24,
-      "area": "川越〜和光市駅周辺",
       "skills": [
         "癒し系",
         "さわやか系"
       ],
-      "profile": "__CAST_A_PROFILE__",
+      "profile": "【自己紹介】\nはじめまして、ソウタです！\n「一緒にいるとホッとする」って言われることが多くて、人の話を聞くのが好きです😊\nお仕事のこと、恋愛のこと、最近あったちょっとした出来事まで、なんでも気軽に話してください！\n一緒にいる時間が、少しでも癒しの時間になれば嬉しいです✨\n初めての方でも緊張せずに過ごせるよう、丁寧な接客を心がけています！\nぜひ自然体でゆっくり過ごしましょう🌿\n\n\n\n【店長コメント】\n彼の魅力は、何といっても素の優しさです。\n接客だから優しいのではなく、普段から相手を思いやり、自然と寄り添うことができる人です。\nなんでも受け止めてくれる器があるので、初対面でも安心感があり、肩の力を抜いて過ごしていただけます。",
       "images": [
-        "assets/images/cast-a-1.jpeg",
-        "assets/images/cast-a-2.svg"
+        "assets/images/cast-a-1.jpeg"
       ],
-      "coverImage": "assets/images/cast-a-1.svg"
+      "coverImage": "assets/images/cast-a-1.jpeg"
     },
     {
       "id": "cast-b",
-      "name": "Cast B",
-      "catch": "明るく自然なコミュニケーション",
+      "name": "ミナト",
+      "catch": "身長:168cm、体重:54kg",
       "age": 27,
-      "area": "東武東上線沿線",
       "skills": [
-        "__SERVICE_SKILL_1__",
-        "__SERVICE_SKILL_3__"
+        "クール系",
+        "イケメン系"
       ],
       "profile": "__CAST_B_PROFILE__",
       "images": [
         "assets/images/cast-b-1.jpeg"
       ],
-      "coverImage": "assets/images/cast-b-1.svg"
+      "coverImage": "assets/images/cast-b-1.jpeg"
     },
     {
       "id": "cast-c",
-      "name": "Cast C",
-      "catch": "柔軟な現場対応",
-      "age": 22,
-      "area": "川越・ふじみ野・志木・朝霞・和光市",
+      "name": "朝陽",
+      "catch": "身長:174cm、体重:72kg",
+      "age": 38,
       "skills": [
-        "__SERVICE_SKILL_2__",
-        "__SERVICE_SKILL_3__"
+        "包容力",
+        "癒し系"
       ],
       "profile": "__CAST_C_PROFILE__",
       "images": [
         "assets/images/cast-c-1.jpeg",
         "assets/images/cast-c-2.jpeg"
       ],
-      "coverImage": "assets/images/cast-c-1.svg"
+      "coverImage": "assets/images/cast-c-1.jpeg"
     }
   ]
 }
