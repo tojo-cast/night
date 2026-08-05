@@ -151,6 +151,10 @@ body {
     font-weight: 700
 }
 
+#cast-detail {
+    white-space: pre-line;
+}
+
 .primary-btn {
     border: 0;
     color: #fff;
